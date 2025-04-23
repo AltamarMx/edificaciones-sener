@@ -1,0 +1,242 @@
+---
+title: "Análisis Térmico y Eficiencia Energética en Edificaciones"
+lang: es
+
+author:
+  name: Guillermo Barrios del Valle
+  email: gbv@ier.unam.mx
+  afiliation: Instituto de Energías Renovables, UNAM
+format: 
+  revealjs:
+    slide-number: c/t  
+    touch: true
+    footer: Programa de Actualización y Superación Profesional para Directores Responsables de Obra y Corresponsables
+---
+
+
+## Grupo Energía en Edificaciones 
+
+:::: {.columns}
+
+:::{.column width="30%"}
+![Guadalupe Huelsz <br> ghl@ier.unam.mx](img/huelsz.png)
+:::
+
+::: {.column width="30%"}
+![Jorge Rojas <br> jrm@ier.unam.mx](img/jorge.jpg)
+:::
+
+::: {.column width="30%"}
+![Guillermo Barrios <br> gbv@ier.unam.mx](img/memo.webp)
+:::
+
+::::
+
+:::: footer
+[Información del GEE](https://www.ier.unam.mx/Eficiencia_y_sustentabilidad.html)
+::::
+
+
+## Eficiencia energética
+
+<br>
+<br>
+
+El uso eficiente de la energía, a veces simplemente llamado, eficiencia energética (EE) o ahorro energético, es el objetivo de **reducir la cantidad de energía requerida para proporcionar productos y servicios**. 
+
+Nos interesa el **acondicionamiento térmico de espacios**.
+
+::: footer 
+[https://es.wikipedia.org/wiki/Eficiencia_energ%C3%A9tica](https://es.wikipedia.org/wiki/Eficiencia_energ%C3%A9tica/)
+:::
+
+
+## Ejemplos típicos de EE 
+
+<br>
+<br>
+
+* Aislar una casa al usar aire acondicionado
+* Iluminación LED, luces fluorescentes o iluminación natural 
+* Electrodomésticos eficientes (refrigeradores)
+
+
+## Ejemplos típicos de EE 
+
+<br>
+<br>
+
+* Sistemas ahorradores de agua 
+* Calentamiento solar de agua o sistemas híbridos
+
+
+
+
+## Confort térmico
+
+Puede definirse confort térmico/higrotérmico,  como la ausencia de malestar térmico. 
+
+En fisiología se dice que hay confort  cuando no tienen que intervenir los mecanismos termorreguladores del cuerpo. 
+
+:::: {.columns}
+
+::: {.column}
+1. **Temperatura del aire**
+2. **Humedad relativa**
+3. **Velocidad del aire**
+4. **Temperatura radiante media**
+:::
+
+::: {.column}
+5. **Radiación solar**
+6. **Actividad física **
+7. **Ropa **
+8. **Edad y género**
+:::
+
+::::
+
+
+::: footer
+[https://es.wikipedia.org/wiki/Confort_higrot%C3%A9rmico](https://es.wikipedia.org/wiki/Confort_higrot%C3%A9rmico)
+:::
+
+
+## Modelos de confort: PMV
+
+<br>
+
+El  Predicted Mean Vote (PMV)  predice la sensación térmica promedio que experimentará un grupo de personas en un determinado ambiente, en función de diversas variables. 
+
+- **PMV (Predicted Mean Vote)**: Predice el voto promedio de confort.
+- **PPD (Predicted Percentage of Dissatisfied)**: Estima el porcentaje de insatisfechos.
+
+
+::: footer
+Fanger, P.O. (1970). Thermal Comfort: Analysis and Applications in Environmental Engineering. Copenhagen: Danish Technical Press.
+:::
+
+
+
+## Limitaciones del PMV
+
+<br>
+<br>
+
+1. Condiciones ambientales constantes
+1. Metabolismo entre 1 y 2 met
+1. Vestimenta entre 0.5 y 2.0 
+1. Espacios climatizados (10 y 30 °C y 30 y 70% HR)
+1. Velocidades de viento bajas (< 0.2 m/s)
+
+
+## PMV extendido
+
+<br>
+
+1. Válido en un rango extendido de temperatura y humedad 
+1. Válido en condiciones cambiantes
+1. Considera el NO uso de aire acondicionado
+1. Considera la exposición de la persona evaluada al aire acondicionado
+1. Válido en exteriores e interiores
+1. Desarrollo de modelos para cada población
+
+
+## ¿Cuál es el interés en los modelos de confort?
+<br>
+<br>
+
+1. Determinar un setpoint adecuado para EE 
+1. Diseño y simulación de vivienda que alcance el confort térmico con diseño bioclimático
+
+
+## Diseño bioclimático para EE y confort térmico
+
+:::: {.columns}
+
+::: {.column}
+1. Orientación de fachadas 
+1. Colores adecuados
+1. Ubicación de ventanas
+1. Uso de protecciones solares
+:::
+
+
+::: {.column}
+5. Sistemas constructivos muros y techos
+1. Ventilación natural
+1. Iluminación natural
+1. Sistemas bajo consumo energético
+:::
+
+::::
+
+
+## Simulaciones energéticas para EE  
+
+![](img/energyplus.jpeg)
+
+::: footer
+[EnergyPlus](https://energyplus.net/)
+:::
+
+
+## Simulaciones energéticas para EE  
+
+![](img/openstudio.jpeg)
+
+::: footer
+[OpenStudio](https://openstudio.net/)
+:::
+
+
+## EnergyPlus y OpenStudio {background-image="img/building.jpeg" background-size="contain" background-position="right" background-opacity="0.2"}
+
+1. Simulación de vivienda/edificaciones para consumo energético por aa
+1. Comportamiento térmico de los espacios sin aire acondicionado
+1. Evaluación de propuestas arquitectónicas
+1. Evaluación y selección de estrategias bioclimáticas
+1. Evaluación de la iluminación natural
+
+
+## Mundo ideal {background-image="img/mundo_ideal.jpeg" background-size="contain" background-position="center" background-opacity="0.3"}
+
+<br> 
+<br> 
+
+1. Grupo de simulación por estado
+1. Evalúa la propuesta de acuerdo al clima-uso
+1. Autoriza y emite recomendaciones
+
+
+
+## Grupo de simulación  {background-image="img/grupo_simulacion.jpeg" background-size="contain" background-position="center" background-opacity="0.2" auto-animate="true"}
+
+<br>
+
+::: incremental
+- Expert@s en bioclimática y EE 
+- Expert@s en simulaciones
+- Expert@s en análisis de datos
+- Expert@s en comunicación de resultados
+- Expert@s en construcción de la zona 
+:::
+
+
+
+
+## Vista de Google Street View
+
+![](./img/streetview.jpeg)
+
+
+
+## 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Escucho sus preguntas.

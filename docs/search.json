@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html#grupo-energía-en-edificaciones",
+    "href": "index.html#grupo-energía-en-edificaciones",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Grupo Energía en Edificaciones",
+    "text": "Grupo Energía en Edificaciones\n\n\n\n\n\nGuadalupe Huelsz  ghl@ier.unam.mx\n\n\n\n\n\n\nJorge Rojas  jrm@ier.unam.mx\n\n\n\n\n\n\nGuillermo Barrios  gbv@ier.unam.mx\n\n\n\n\nInformación del GEE"
+  },
+  {
+    "objectID": "index.html#eficiencia-energética",
+    "href": "index.html#eficiencia-energética",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Eficiencia energética",
+    "text": "Eficiencia energética\n \nEl uso eficiente de la energía, a veces simplemente llamado, eficiencia energética (EE) o ahorro energético, es el objetivo de reducir la cantidad de energía requerida para proporcionar productos y servicios.\nNos interesa el acondicionamiento térmico de espacios.\n\nhttps://es.wikipedia.org/wiki/Eficiencia_energ%C3%A9tica"
+  },
+  {
+    "objectID": "index.html#ejemplos-típicos-de-ee",
+    "href": "index.html#ejemplos-típicos-de-ee",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Ejemplos típicos de EE",
+    "text": "Ejemplos típicos de EE\n \n\nAislar una casa al usar aire acondicionado\nIluminación LED, luces fluorescentes o iluminación natural\nElectrodomésticos eficientes (refrigeradores)"
+  },
+  {
+    "objectID": "index.html#ejemplos-típicos-de-ee-1",
+    "href": "index.html#ejemplos-típicos-de-ee-1",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Ejemplos típicos de EE",
+    "text": "Ejemplos típicos de EE\n \n\nSistemas ahorradores de agua\nCalentamiento solar de agua o sistemas híbridos"
+  },
+  {
+    "objectID": "index.html#confort-térmico",
+    "href": "index.html#confort-térmico",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Confort térmico",
+    "text": "Confort térmico\nPuede definirse confort térmico/higrotérmico, como la ausencia de malestar térmico.\nEn fisiología se dice que hay confort cuando no tienen que intervenir los mecanismos termorreguladores del cuerpo.\n\n\n\nTemperatura del aire\nHumedad relativa\nVelocidad del aire\nTemperatura radiante media\n\n\n\nRadiación solar\nActividad física \nRopa \nEdad y género\n\n\n\nhttps://es.wikipedia.org/wiki/Confort_higrot%C3%A9rmico"
+  },
+  {
+    "objectID": "index.html#modelos-de-confort-pmv",
+    "href": "index.html#modelos-de-confort-pmv",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Modelos de confort: PMV",
+    "text": "Modelos de confort: PMV\n\nEl Predicted Mean Vote (PMV) predice la sensación térmica promedio que experimentará un grupo de personas en un determinado ambiente, en función de diversas variables.\n\nPMV (Predicted Mean Vote): Predice el voto promedio de confort.\nPPD (Predicted Percentage of Dissatisfied): Estima el porcentaje de insatisfechos.\n\n\nFanger, P.O. (1970). Thermal Comfort: Analysis and Applications in Environmental Engineering. Copenhagen: Danish Technical Press."
+  },
+  {
+    "objectID": "index.html#limitaciones-del-pmv",
+    "href": "index.html#limitaciones-del-pmv",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Limitaciones del PMV",
+    "text": "Limitaciones del PMV\n \n\nCondiciones ambientales constantes\nMetabolismo entre 1 y 2 met\nVestimenta entre 0.5 y 2.0\nEspacios climatizados (10 y 30 °C y 30 y 70% HR)\nVelocidades de viento bajas (&lt; 0.2 m/s)"
+  },
+  {
+    "objectID": "index.html#pmv-extendido",
+    "href": "index.html#pmv-extendido",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "PMV extendido",
+    "text": "PMV extendido\n\n\nVálido en un rango extendido de temperatura y humedad\nVálido en condiciones cambiantes\nConsidera el NO uso de aire acondicionado\nConsidera la exposición de la persona evaluada al aire acondicionado\nVálido en exteriores e interiores\nDesarrollo de modelos para cada población"
+  },
+  {
+    "objectID": "index.html#cuál-es-el-interés-en-los-modelos-de-confort",
+    "href": "index.html#cuál-es-el-interés-en-los-modelos-de-confort",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "¿Cuál es el interés en los modelos de confort?",
+    "text": "¿Cuál es el interés en los modelos de confort?\n \n\nDeterminar un setpoint adecuado para EE\nDiseño y simulación de vivienda que alcance el confort térmico con diseño bioclimático"
+  },
+  {
+    "objectID": "index.html#diseño-bioclimático-para-ee-y-confort-térmico",
+    "href": "index.html#diseño-bioclimático-para-ee-y-confort-térmico",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Diseño bioclimático para EE y confort térmico",
+    "text": "Diseño bioclimático para EE y confort térmico\n\n\n\nOrientación de fachadas\nColores adecuados\nUbicación de ventanas\nUso de protecciones solares\n\n\n\nSistemas constructivos muros y techos\nVentilación natural\nIluminación natural\nSistemas bajo consumo energético"
+  },
+  {
+    "objectID": "index.html#simulaciones-energéticas-para-ee",
+    "href": "index.html#simulaciones-energéticas-para-ee",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Simulaciones energéticas para EE",
+    "text": "Simulaciones energéticas para EE\n\n\nEnergyPlus"
+  },
+  {
+    "objectID": "index.html#simulaciones-energéticas-para-ee-1",
+    "href": "index.html#simulaciones-energéticas-para-ee-1",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Simulaciones energéticas para EE",
+    "text": "Simulaciones energéticas para EE\n\n\nOpenStudio"
+  },
+  {
+    "objectID": "index.html#energyplus-y-openstudio",
+    "href": "index.html#energyplus-y-openstudio",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "EnergyPlus y OpenStudio",
+    "text": "EnergyPlus y OpenStudio\n\nSimulación de vivienda/edificaciones para consumo energético por aa\nComportamiento térmico de los espacios sin aire acondicionado\nEvaluación de propuestas arquitectónicas\nEvaluación y selección de estrategias bioclimáticas\nEvaluación de la iluminación natural"
+  },
+  {
+    "objectID": "index.html#mundo-ideal",
+    "href": "index.html#mundo-ideal",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Mundo ideal",
+    "text": "Mundo ideal\n \n\nGrupo de simulación por estado\nEvalúa la propuesta de acuerdo al clima-uso\nAutoriza y emite recomendaciones"
+  },
+  {
+    "objectID": "index.html#grupo-de-simulación",
+    "href": "index.html#grupo-de-simulación",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Grupo de simulación",
+    "text": "Grupo de simulación\n\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
+  },
+  {
+    "objectID": "index.html#vista-de-google-street-view",
+    "href": "index.html#vista-de-google-street-view",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Vista de Google Street View",
+    "text": "Vista de Google Street View"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "",
+    "text": "Escucho sus preguntas."
+  }
+]
