@@ -11,43 +11,115 @@ format:
     slide-number: c/t  
     touch: true
     footer: Programa de Actualización y Superación Profesional para Directores Responsables de Obra y Corresponsables
+    theme: black
+
 ---
 
 
-## Grupo Energía en Edificaciones 
+## Grupo Energía en Edificaciones (GEE)
+
+
+<br>
+<br>
+
+Se estudian los fundamentos físicos, el desarrollo y la implementación de estrategias de diseño bioclimático para el confort térmico, lumínico y la calidad de aire en edificaciones con el menor consumo posible de energía.  
+
+
+
+::: footer
+[Más información del GEE](https://www.ier.unam.mx/Eficiencia_y_sustentabilidad.html)
+:::
+
+##  Diseño bioclimático
+
+<br>
+<br>
+
+Diseño arquitectónico que utiliza las condiciones climáticas del entorno —como el sol, el viento, la humedad y la temperatura— para lograr confort térmico, lumínico y de calidad del aire en el interior de las edificaciones, **minimizando el uso de energía mecánica** para calefacción, enfriamiento o iluminación.
+
+
+## Confort térmico  
+
+<br>
+<br>
+
+Es el estado en el que una persona **se siente térmicamente satisfecha** y no desea modificar su entorno. Depende de variables físicas (temperatura del aire, humedad relativa, velocidad del aire), así como del metabolismo, el tipo de ropa, y factores psicológicos y culturales.
+
+
+## Guadalupe Huelsz
 
 :::: {.columns}
 
 :::{.column width="30%"}
-![Guadalupe Huelsz <br> ghl@ier.unam.mx](img/huelsz.png)
+![Guadalupe Huelsz](img/huelsz.png)  
+[ghl@ier.unam.mx](mailto:ghl@ier.unam.mx)
 :::
 
-::: {.column width="30%"}
-![Jorge Rojas <br> jrm@ier.unam.mx](img/jorge.jpg)
-:::
+:::{.column width="70%"}
+<!-- ### Líneas de investigación -->
+<br>
 
-::: {.column width="30%"}
-![Guillermo Barrios <br> gbv@ier.unam.mx](img/memo.webp)
+- Ventilación natural en edificaciones
+- Confort térmico
+- Diseño bioclimático 
+- Evaluación de normativas (NOM-020, NOM-008)
 :::
 
 ::::
 
-:::: footer
-[Información del GEE](https://www.ier.unam.mx/Eficiencia_y_sustentabilidad.html)
+::: footer
+[Más información del GEE](https://www.ier.unam.mx/Eficiencia_y_sustentabilidad.html)
+:::
+
+## Jorge Rojas
+
+:::: {.columns}
+
+:::{.column width="30%"}
+![Jorge Rojas](img/jorge.jpg)  
+<small>[jrm@ier.unam.mx](mailto:jrm@ier.unam.mx)</small>
+:::
+
+:::{.column width="70%"}
+<!-- ### Líneas de investigación -->
+<br>
+
+- Enfriamiento radiativo
+- Enfriamiento evaporativo
+- Evaluación experimental de sistemas constructivos
+- Evaluación de normativas (NOM-020, NOM-008)
+:::
+
 ::::
 
+::: footer
+[Más información del GEE](https://www.ier.unam.mx/Eficiencia_y_sustentabilidad.html)
+:::
 
-## Eficiencia energética
+## Guillermo Barrios
 
-<br>
-<br>
+:::: {.columns}
 
-El uso eficiente de la energía, a veces simplemente llamado, eficiencia energética (EE) o ahorro energético, es el objetivo de **reducir la cantidad de energía requerida para proporcionar productos y servicios**. 
+:::{.column width="30%"}
+![Guillermo Barrios](img/memo.webp)  
+<small>[gbv@ier.unam.mx](mailto:gbv@ier.unam.mx)</small>
+:::
 
-Nos interesa el **acondicionamiento térmico de espacios**.
+:::{.column width="70%"}
+<!-- ### Líneas de investigación -->
 
-::: footer 
-[https://es.wikipedia.org/wiki/Eficiencia_energ%C3%A9tica](https://es.wikipedia.org/wiki/Eficiencia_energ%C3%A9tica/)
+
+- Simulación energética de edificaciones
+- Evaluación de la iluminación natural
+- Monitoreo de edificaciones IoT
+- Edificaciones Energía Cero NZEB
+- Evaluación de normativas (NOM-020, NOM-008)
+:::
+
+::::
+
+::: footer
+➡️ [Más información del GEE](https://www.ier.unam.mx/Eficiencia_y_sustentabilidad.html)
 :::
 
 

@@ -1,17 +1,45 @@
 [
   {
-    "objectID": "index.html#grupo-energía-en-edificaciones",
-    "href": "index.html#grupo-energía-en-edificaciones",
+    "objectID": "index.html#grupo-energía-en-edificaciones-gee",
+    "href": "index.html#grupo-energía-en-edificaciones-gee",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Grupo Energía en Edificaciones",
-    "text": "Grupo Energía en Edificaciones\n\n\n\n\n\nGuadalupe Huelsz  ghl@ier.unam.mx\n\n\n\n\n\n\nJorge Rojas  jrm@ier.unam.mx\n\n\n\n\n\n\nGuillermo Barrios  gbv@ier.unam.mx\n\n\n\n\nInformación del GEE"
+    "section": "Grupo Energía en Edificaciones (GEE)",
+    "text": "Grupo Energía en Edificaciones (GEE)\n \nSe estudian los fundamentos físicos, el desarrollo y la implementación de estrategias de diseño bioclimático para el confort térmico, lumínico y la calidad de aire en edificaciones con el menor consumo posible de energía.\n\nMás información del GEE"
   },
   {
-    "objectID": "index.html#eficiencia-energética",
-    "href": "index.html#eficiencia-energética",
+    "objectID": "index.html#diseño-bioclimático",
+    "href": "index.html#diseño-bioclimático",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Eficiencia energética",
-    "text": "Eficiencia energética\n \nEl uso eficiente de la energía, a veces simplemente llamado, eficiencia energética (EE) o ahorro energético, es el objetivo de reducir la cantidad de energía requerida para proporcionar productos y servicios.\nNos interesa el acondicionamiento térmico de espacios.\n\nhttps://es.wikipedia.org/wiki/Eficiencia_energ%C3%A9tica"
+    "section": "Diseño bioclimático",
+    "text": "Diseño bioclimático\n \nDiseño arquitectónico que utiliza las condiciones climáticas del entorno —como el sol, el viento, la humedad y la temperatura— para lograr confort térmico, lumínico y de calidad del aire en el interior de las edificaciones, minimizando el uso de energía mecánica para calefacción, enfriamiento o iluminación."
+  },
+  {
+    "objectID": "index.html#confort-térmico",
+    "href": "index.html#confort-térmico",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Confort térmico",
+    "text": "Confort térmico\n \nEs el estado en el que una persona se siente térmicamente satisfecha y no desea modificar su entorno. Depende de variables físicas (temperatura del aire, humedad relativa, velocidad del aire), así como del metabolismo, el tipo de ropa, y factores psicológicos y culturales."
+  },
+  {
+    "objectID": "index.html#guadalupe-huelsz",
+    "href": "index.html#guadalupe-huelsz",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Guadalupe Huelsz",
+    "text": "Guadalupe Huelsz\n\n\n\nghl@ier.unam.mx\n\n\n\n\nVentilación natural en edificaciones\nConfort térmico\nDiseño bioclimático\nEvaluación de normativas (NOM-020, NOM-008)\n\n\n\nMás información del GEE"
+  },
+  {
+    "objectID": "index.html#jorge-rojas",
+    "href": "index.html#jorge-rojas",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Jorge Rojas",
+    "text": "Jorge Rojas\n\n\n\njrm@ier.unam.mx\n\n\n\n\nEnfriamiento radiativo\nEnfriamiento evaporativo\nEvaluación experimental de sistemas constructivos\nEvaluación de normativas (NOM-020, NOM-008)\n\n\n\nMás información del GEE"
+  },
+  {
+    "objectID": "index.html#guillermo-barrios",
+    "href": "index.html#guillermo-barrios",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Guillermo Barrios",
+    "text": "Guillermo Barrios\n\n\n\ngbv@ier.unam.mx\n\n\n\nSimulación energética de edificaciones\nEvaluación de la iluminación natural\nMonitoreo de edificaciones IoT\nEdificaciones Energía Cero NZEB\nEvaluación de normativas (NOM-020, NOM-008)\n\n\n\n➡️ Más información del GEE"
   },
   {
     "objectID": "index.html#ejemplos-típicos-de-ee",
@@ -28,8 +56,8 @@
     "text": "Ejemplos típicos de EE\n \n\nSistemas ahorradores de agua\nCalentamiento solar de agua o sistemas híbridos"
   },
   {
-    "objectID": "index.html#confort-térmico",
-    "href": "index.html#confort-térmico",
+    "objectID": "index.html#confort-térmico-1",
+    "href": "index.html#confort-térmico-1",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Confort térmico",
     "text": "Confort térmico\nPuede definirse confort térmico/higrotérmico, como la ausencia de malestar térmico.\nEn fisiología se dice que hay confort cuando no tienen que intervenir los mecanismos termorreguladores del cuerpo.\n\n\n\nTemperatura del aire\nHumedad relativa\nVelocidad del aire\nTemperatura radiante media\n\n\n\nRadiación solar\nActividad física \nRopa \nEdad y género\n\n\n\nhttps://es.wikipedia.org/wiki/Confort_higrot%C3%A9rmico"
@@ -102,7 +130,7 @@
     "href": "index.html#grupo-de-simulación",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Grupo de simulación",
-    "text": "Grupo de simulación\n\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
+    "text": "Grupo de simulación\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
   },
   {
     "objectID": "index.html#vista-de-google-street-view",
