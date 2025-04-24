@@ -11,7 +11,7 @@
     "href": "index.html#grupo-energía-en-edificaciones-gee",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Grupo Energía en Edificaciones (GEE)",
-    "text": "Grupo Energía en Edificaciones (GEE)\n \nSe estudian los fundamentos físicos, el desarrollo y la implementación de estrategias de diseño bioclimático para el confort térmico, lumínico y la calidad de aire en edificaciones con el menor consumo posible de energía.\n\nMás información del GEE"
+    "text": "Grupo Energía en Edificaciones (GEE)\n \nEstudiamos los fundamentos físicos, el desarrollo y la implementación de estrategias de diseño bioclimático para el confort térmico, lumínico y la calidad de aire en edificaciones con el menor consumo posible de energía.\n\nMás información del GEE"
   },
   {
     "objectID": "index.html#diseño-bioclimático",
@@ -54,6 +54,13 @@
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Jorge Rojas",
     "text": "Jorge Rojas\n\n\n\njrm@ier.unam.mx\n\n\n\n\nEnfriamiento radiativo\nEnfriamiento evaporativo\nEvaluación experimental de sistemas constructivos\nEvaluación de normativas (NOM-020, NOM-008)"
+  },
+  {
+    "objectID": "index.html#miriam-cruz",
+    "href": "index.html#miriam-cruz",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Miriam Cruz",
+    "text": "Miriam Cruz\n\n\n\nmvcs@ier.unam.mx\n\n\n\n\nEstrategias bioclimáticas\nSimulaciones energéticas\nVentilación natural\nEvaluación de normativas (NOM-020, NOM-008)"
   },
   {
     "objectID": "index.html#guillermo-barrios",
@@ -102,7 +109,7 @@
     "href": "index.html#nom-008-ener-y-nom-020-ener-1",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "NOM-008-ENER y NOM-020-ENER",
-    "text": "NOM-008-ENER y NOM-020-ENER\n\nModelo incorrecto\nNo considera radiación de onda larga\nNo considera el color\nNo usa un modelo de confort adaptativo\nNo estima el consumo de energía\nNo considera infiltración, ni cargas térmicas\nOrientaciones limitadas"
+    "text": "NOM-008-ENER y NOM-020-ENER\n\n\nModelo incorrecto\nNo considera radiación de onda larga\nNo considera el color\nNo usa un modelo de confort adaptativo\nNo estima el consumo de energía\nNo considera infiltración, ni cargas térmicas\nOrientaciones limitadas"
   },
   {
     "objectID": "index.html#ener-habitat",
@@ -133,6 +140,13 @@
     "text": "EnergyPlus y OpenStudio\n\nSimulación de vivienda/edificaciones para consumo energético por aa\nComportamiento térmico de los espacios sin aire acondicionado\nEvaluación de propuestas arquitectónicas\nEvaluación y selección de estrategias bioclimáticas\nEvaluación de la iluminación natural"
   },
   {
+    "objectID": "index.html#edificio-bioclimático",
+    "href": "index.html#edificio-bioclimático",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Edificio Bioclimático",
+    "text": "Edificio Bioclimático\n\n\n\n \n\n\nOrientación\nProtecciones solares\nColor\nMasa térmica\nVentilación cruzada y nocturna\nIluminación natural\nEnfriamiento evaporativo y radiativo"
+  },
+  {
     "objectID": "index.html#encevi-2018-inegi",
     "href": "index.html#encevi-2018-inegi",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
@@ -144,25 +158,25 @@
     "href": "index.html#mundo-feliz",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Mundo feliz",
-    "text": "Mundo feliz\n\nNOM para vivienda de sin aire acondicionado.\n\nconfort térmico adaptativo\nestrategias bioclimáticas"
+    "text": "Mundo feliz\n\nNOM para vivienda de sin aire acondicionado.\n\nConfort térmico adaptativo\nEstrategias bioclimáticas\nVentilación, ocupación…\nMateriales y sus propiedades\n…"
   },
   {
     "objectID": "index.html#mundo-feliz-1",
     "href": "index.html#mundo-feliz-1",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Mundo feliz",
-    "text": "Mundo feliz\n\nLaboratorio de eficiencia energética y confort en vivienda\n\nBrinda servicios al infonavit-conavi\nEvalúa la propuesta de acuerdo al clima-uso\nAutoriza y emite recomendaciones"
+    "text": "Mundo feliz\n\nLaboratorio de eficiencia energética y confort en vivienda\n\nTrabaja en conjunto con INFONAVIT, CONAVI, RUV\nEvalúa la propuesta de acuerdo al clima-uso\nAutoriza y emite recomendaciones"
   },
   {
-    "objectID": "index.html#laboratorio",
-    "href": "index.html#laboratorio",
+    "objectID": "index.html#laboratorio-de-eficiencia-energética-y-confort-en-vivienda-1",
+    "href": "index.html#laboratorio-de-eficiencia-energética-y-confort-en-vivienda-1",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Laboratorio",
-    "text": "Laboratorio\n\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
+    "section": "Laboratorio de eficiencia energética y confort en vivienda",
+    "text": "Laboratorio de eficiencia energética y confort en vivienda\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
   },
   {
-    "objectID": "index.html#section-1",
-    "href": "index.html#section-1",
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "",
     "text": "¿Cómo resolvemos esto?"
@@ -172,7 +186,7 @@
     "href": "index.html#alta-densidad-por-jorge-taboada",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Alta Densidad por Jorge Taboada",
-    "text": "Alta Densidad por Jorge Taboada\n\n\n\n\n\nAlta densidad por Jorge Taboada\n\n\n\n\nOrientación uniforme\nSin protección solar\nVentanas pequeñas y mal ubicadas\nAusencia de patios o espacios intermedios.\nNo vegetación"
+    "text": "Alta Densidad por Jorge Taboada\n\n\n\n\n\nAlta densidad por Jorge Taboada\n\n\n\n\nOrientación uniforme\nSin protección solar\nVentanas mal ubicadas\nAusencia de patios o espacios intermedios.\nNo vegetación"
   },
   {
     "objectID": "index.html#alta-densidad-por-jorge-taboada-1",
@@ -189,8 +203,8 @@
     "text": "Programa de vivienda y regularización"
   },
   {
-    "objectID": "index.html#section-2",
-    "href": "index.html#section-2",
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "",
     "text": "Escucho sus preguntas."

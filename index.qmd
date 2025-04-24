@@ -10,7 +10,7 @@ format:
   revealjs:
     slide-number: c/t  
     touch: true
-    footer: Diálogos por la sostenibilidad
+    footer: Diálogos por la sostenibilidad, Subsecretaria   de Planeación y Transición Energética, 24 de abril, 2025.
     theme: white
     vertical-center: true
 
@@ -28,7 +28,7 @@ format:
 <br>
 <br>
 
-Se estudian los fundamentos físicos, el desarrollo y la implementación de estrategias de diseño bioclimático para el confort térmico, lumínico y la calidad de aire en edificaciones con el menor consumo posible de energía.  
+Estudiamos los fundamentos físicos, el desarrollo y la implementación de estrategias de diseño bioclimático para el confort térmico, lumínico y la calidad de aire en edificaciones con el menor consumo posible de energía.  
 
 
 
@@ -142,6 +142,27 @@ Es el estado en el que una persona **se siente térmicamente satisfecha** y no d
 ::::
 
 
+## Miriam Cruz
+
+:::: {.columns}
+
+:::{.column width="30%"}
+![Miriam Cruz](img/miriam.jpg)  
+[mvcs@ier.unam.mx](mailto:mvcs@ier.unam.mx)
+:::
+
+:::{.column width="70%"}
+<!-- ### Líneas de investigación -->
+<br>
+
+- Estrategias bioclimáticas
+- Simulaciones energéticas
+- Ventilación natural
+- Evaluación de normativas (NOM-020, NOM-008)
+:::
+
+::::
+
 ## Guillermo Barrios
 
 :::: {.columns}
@@ -235,6 +256,8 @@ enfriamiento.
 
 ## NOM-008-ENER y NOM-020-ENER
 
+<br> 
+
 - Modelo incorrecto
 - No considera radiación de onda larga
 - No considera el color
@@ -279,6 +302,36 @@ enfriamiento.
 
 
 
+## 
+![](img/sener.png){.lightbox}
+
+## Edificio Bioclimático
+
+::: {.columns}
+
+
+::: {.column width="40%"}
+
+<br>
+
+![](img/vistas.png){width="70%" .lightbox}
+![](img/todo_edificio.png){width="70%" .lightbox}
+:::
+
+:::{.column width="60%"}
+- Orientación
+- Protecciones solares
+- Color
+- Masa térmica
+- Ventilación cruzada y nocturna
+- Iluminación natural
+- Enfriamiento evaporativo y radiativo
+:::
+
+:::
+
+
+
 ## ENCEVI 2018 – INEGI
 
 ::: {.columns}
@@ -306,14 +359,14 @@ enfriamiento.
 **Fuente:** Encuesta Nacional sobre Consumo de Energéticos en Viviendas (ENCEVI), 2018 – INEGI  
 [https://www.inegi.org.mx/programas/encevi/2018](https://www.inegi.org.mx/programas/encevi/2018)
 
-
-
-
 ## Mundo feliz
 
 - NOM para vivienda de sin aire acondicionado.
-  - confort térmico adaptativo
-  - estrategias bioclimáticas
+  - Confort térmico adaptativo
+  - Estrategias bioclimáticas
+  - Ventilación, ocupación...
+  - Materiales y sus propiedades
+  - ...
 
 
 
@@ -325,13 +378,13 @@ enfriamiento.
 
 #### Laboratorio de eficiencia energética y confort en vivienda
 
-1. Brinda servicios al infonavit-conavi 
+1. Trabaja en conjunto con INFONAVIT, CONAVI, RUV 
 1. Evalúa la propuesta de acuerdo al clima-uso
 1. Autoriza y emite recomendaciones
 
 
 
-## Laboratorio  {background-image="img/grupo_simulacion.jpeg" background-size="contain" background-position="center" background-opacity="0.2" auto-animate="true"}
+## Laboratorio de eficiencia energética y confort en vivienda
 
 <br>
 
@@ -372,7 +425,7 @@ enfriamiento.
 
 - Orientación uniforme
 - Sin protección solar
-- Ventanas pequeñas y mal ubicadas
+- Ventanas  mal ubicadas
 - Ausencia de patios o espacios intermedios.
 - No vegetación
 
