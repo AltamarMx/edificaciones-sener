@@ -278,6 +278,46 @@ enfriamiento.
 1. Evaluación de la iluminación natural 
 
 
+
+## ENCEVI 2018 – INEGI
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+✅ **Viviendas con aire acondicionado**  
+**4,908,985**  
+(14.8%)
+
+:::
+
+::: {.column width="50%"}
+
+🛑 **Viviendas sin aire acondicionado**  
+**28,253,163**  
+(85.2%)
+
+:::
+
+::::
+
+<br>
+
+**Fuente:** Encuesta Nacional sobre Consumo de Energéticos en Viviendas (ENCEVI), 2018 – INEGI  
+[https://www.inegi.org.mx/programas/encevi/2018](https://www.inegi.org.mx/programas/encevi/2018)
+
+
+
+
+## Mundo feliz
+
+- NOM para vivienda de sin aire acondicionado.
+  - confort térmico adaptativo
+  - estrategias bioclimáticas
+
+
+
+
 ## Mundo feliz {background-image="img/mundo_ideal.jpeg" background-size="contain" background-position="center" background-opacity="0.2"}
 
 <br>

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "notebooks/001_ViviendasAireAcondicionado.html",
+    "href": "notebooks/001_ViviendasAireAcondicionado.html",
+    "title": "",
+    "section": "",
+    "text": "import pandas as pd\nimport numpy as np\n\n\nf = '../data/encevi.csv'\ncolumnas = ['folio','tipo_viv','total_niv','super_cons',\n            'super_ter','tot_cuart','electri','local_com',\n            # 'cons_med1','cons_med2','inicia1','mes_inicia1',\n            # 'inica2','mes_inicia2',\n           ]\nencevi = pd.read_csv(f,usecols=columnas)\ncolumnas = encevi.columns\nencevi.set_index('folio', inplace=True)\n\nf = '../data/vivienda.csv'\ncolumnas = ['folio','factor_sem']\nvivienda = pd.read_csv(f,usecols=columnas)\nvivienda.set_index('folio',inplace=True)\n\nvivienda = vivienda.join(encevi,how='inner')\nprint(vivienda.factor_sem.sum())\n\n# f = '../data/encevi_result_db_041722.csv'\n# columnas = ['folioviv','bill_kwh_estimation','bill_days']\n# energia = pd.read_csv(f,usecols=columnas,index_col=0)\n\nf = '../data/aireacond.csv'\naireacond = pd.read_csv(f)\n\nvivienda = aireacond.join(vivienda,how='inner')\nvivienda.index.names = ['folio']\nprint(vivienda.factor_sem.sum())\n\n33162148\n6646747\n\n\n\n\n# ENCEVI + vivienda (todas las viviendas con su factor de expansión)\nencevi = pd.read_csv('../data/encevi.csv', usecols=[\n    'folio','tipo_viv','total_niv','super_cons','super_ter','tot_cuart','electri','local_com'\n]).set_index('folio')\nvivienda = (\n    pd.read_csv('../data/vivienda.csv', usecols=['folio','factor_sem'])\n      .set_index('folio')\n      .join(encevi, how='inner')\n)\n\naireacond = pd.read_csv('../data/aireacond.csv', usecols=['folio'])\n# Crea una Serie booleana: True si ese folio tiene AC\nvivienda['has_ac'] = vivienda.index.isin(aireacond['folio'])\n\n# Total de viviendas (ponderado)\ntotal_viv = vivienda['factor_sem'].sum()\n\n# Sólo las que tienen AC\ntotal_con_ac = vivienda.loc[vivienda['has_ac'], 'factor_sem'].sum()\n\n# Las que NO tienen AC\ntotal_sin_ac = total_viv - total_con_ac\n\n# print(f\"Total viviendas:                   {total_viv:,.0f}\")\nprint(f\"Viviendas con aire acondicionado:   {total_con_ac:,.0f} ({total_con_ac/total_viv*100:,.1f}%)\")\nprint(f\"Viviendas sin aire acondicionado:  {total_sin_ac:,.0f} ({total_sin_ac/total_viv*100:,.1f}%)\")\n\nvivienda.factor_sem.sum()\n\nViviendas con aire acondicionado:   4,908,985 (14.8%)\nViviendas sin aire acondicionado:  28,253,163 (85.2%)\n\n\nnp.int64(33162148)"
+  },
+  {
     "objectID": "index.html#grupo-energía-en-edificaciones-gee",
     "href": "index.html#grupo-energía-en-edificaciones-gee",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
@@ -126,8 +133,22 @@
     "text": "EnergyPlus y OpenStudio\n\nSimulación de vivienda/edificaciones para consumo energético por aa\nComportamiento térmico de los espacios sin aire acondicionado\nEvaluación de propuestas arquitectónicas\nEvaluación y selección de estrategias bioclimáticas\nEvaluación de la iluminación natural"
   },
   {
+    "objectID": "index.html#encevi-2018-inegi",
+    "href": "index.html#encevi-2018-inegi",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "ENCEVI 2018 – INEGI",
+    "text": "ENCEVI 2018 – INEGI\n\n\n✅ Viviendas con aire acondicionado\n4,908,985\n(14.8%)\n\n🛑 Viviendas sin aire acondicionado\n28,253,163\n(85.2%)\n\n\nFuente: Encuesta Nacional sobre Consumo de Energéticos en Viviendas (ENCEVI), 2018 – INEGI\nhttps://www.inegi.org.mx/programas/encevi/2018"
+  },
+  {
     "objectID": "index.html#mundo-feliz",
     "href": "index.html#mundo-feliz",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Mundo feliz",
+    "text": "Mundo feliz\n\nNOM para vivienda de sin aire acondicionado.\n\nconfort térmico adaptativo\nestrategias bioclimáticas"
+  },
+  {
+    "objectID": "index.html#mundo-feliz-1",
+    "href": "index.html#mundo-feliz-1",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Mundo feliz",
     "text": "Mundo feliz\n\nLaboratorio de eficiencia energética y confort en vivienda\n\nBrinda servicios al infonavit-conavi\nEvalúa la propuesta de acuerdo al clima-uso\nAutoriza y emite recomendaciones"
@@ -137,7 +158,7 @@
     "href": "index.html#laboratorio",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Laboratorio",
-    "text": "Laboratorio\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
+    "text": "Laboratorio\n\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
   },
   {
     "objectID": "index.html#section-1",
