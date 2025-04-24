@@ -17,6 +17,10 @@ format:
 
 ---
 
+##
+
+![](img/qrcode_altamarmx.github.io.png){.lighbox}
+
 
 ## Grupo Energía en Edificaciones (GEE)
 
@@ -348,10 +352,21 @@ enfriamiento.
 
 ## 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+:::: {.columns}
 
-Escucho sus preguntas.
+::: {.column width="60%"}
+
+
+<br><br><br><br><br>
+
+### Escucho sus preguntas.
+
+:::
+
+::: {.column width="40%"}
+
+![](img/qrcode_altamarmx.github.io.png){width=80% .lightbox}
+
+:::
+
+::::
