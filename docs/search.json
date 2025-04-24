@@ -11,7 +11,7 @@
     "href": "index.html#diseño-bioclimático",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "Diseño bioclimático",
-    "text": "Diseño bioclimático\n \nDiseño arquitectónico que utiliza las condiciones climáticas del entorno —como el sol, el viento, la humedad y la temperatura— para lograr confort térmico, lumínico y de calidad del aire en el interior de las edificaciones, minimizando el uso de energía mecánica para calefacción, enfriamiento o iluminación."
+    "text": "Diseño bioclimático\nBaruch Givoni\n\n… busca adaptar los edificios al clima local mediante estrategias pasivas como la ventilación natural, el uso de masa térmica, color y otras para lograr confort térmico sin recurrir a sistemas mecánicos.\n\nMatheos Santamouris\n\n… optimiza las relaciones energéticas entre el edificio y su entorno, utilizando recursos naturales y técnicas de diseño para crear espacios confortables y energéticamente eficientes."
   },
   {
     "objectID": "index.html#confort-térmico",
@@ -21,74 +21,11 @@
     "text": "Confort térmico\n \nEs el estado en el que una persona se siente térmicamente satisfecha y no desea modificar su entorno. Depende de variables físicas (temperatura del aire, humedad relativa, velocidad del aire), así como del metabolismo, el tipo de ropa, y factores psicológicos y culturales."
   },
   {
-    "objectID": "index.html#guadalupe-huelsz",
-    "href": "index.html#guadalupe-huelsz",
+    "objectID": "index.html#por-qué-nos-interesa-el-diseño-bioclimático-y-el-confort-térmico",
+    "href": "index.html#por-qué-nos-interesa-el-diseño-bioclimático-y-el-confort-térmico",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Guadalupe Huelsz",
-    "text": "Guadalupe Huelsz\n\n\n\nghl@ier.unam.mx\n\n\n\n\nVentilación natural en edificaciones\nConfort térmico\nDiseño bioclimático\nEvaluación de normativas (NOM-020, NOM-008)\n\n\n\nMás información del GEE"
-  },
-  {
-    "objectID": "index.html#jorge-rojas",
-    "href": "index.html#jorge-rojas",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Jorge Rojas",
-    "text": "Jorge Rojas\n\n\n\njrm@ier.unam.mx\n\n\n\n\nEnfriamiento radiativo\nEnfriamiento evaporativo\nEvaluación experimental de sistemas constructivos\nEvaluación de normativas (NOM-020, NOM-008)\n\n\n\nMás información del GEE"
-  },
-  {
-    "objectID": "index.html#guillermo-barrios",
-    "href": "index.html#guillermo-barrios",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Guillermo Barrios",
-    "text": "Guillermo Barrios\n\n\n\ngbv@ier.unam.mx\n\n\n\nSimulación energética de edificaciones\nEvaluación de la iluminación natural\nMonitoreo de edificaciones IoT\nEdificaciones Energía Cero NZEB\nEvaluación de normativas (NOM-020, NOM-008)\n\n\n\n➡️ Más información del GEE"
-  },
-  {
-    "objectID": "index.html#ejemplos-típicos-de-ee",
-    "href": "index.html#ejemplos-típicos-de-ee",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Ejemplos típicos de EE",
-    "text": "Ejemplos típicos de EE\n \n\nAislar una casa al usar aire acondicionado\nIluminación LED, luces fluorescentes o iluminación natural\nElectrodomésticos eficientes (refrigeradores)"
-  },
-  {
-    "objectID": "index.html#ejemplos-típicos-de-ee-1",
-    "href": "index.html#ejemplos-típicos-de-ee-1",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Ejemplos típicos de EE",
-    "text": "Ejemplos típicos de EE\n \n\nSistemas ahorradores de agua\nCalentamiento solar de agua o sistemas híbridos"
-  },
-  {
-    "objectID": "index.html#confort-térmico-1",
-    "href": "index.html#confort-térmico-1",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Confort térmico",
-    "text": "Confort térmico\nPuede definirse confort térmico/higrotérmico, como la ausencia de malestar térmico.\nEn fisiología se dice que hay confort cuando no tienen que intervenir los mecanismos termorreguladores del cuerpo.\n\n\n\nTemperatura del aire\nHumedad relativa\nVelocidad del aire\nTemperatura radiante media\n\n\n\nRadiación solar\nActividad física \nRopa \nEdad y género\n\n\n\nhttps://es.wikipedia.org/wiki/Confort_higrot%C3%A9rmico"
-  },
-  {
-    "objectID": "index.html#modelos-de-confort-pmv",
-    "href": "index.html#modelos-de-confort-pmv",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Modelos de confort: PMV",
-    "text": "Modelos de confort: PMV\n\nEl Predicted Mean Vote (PMV) predice la sensación térmica promedio que experimentará un grupo de personas en un determinado ambiente, en función de diversas variables.\n\nPMV (Predicted Mean Vote): Predice el voto promedio de confort.\nPPD (Predicted Percentage of Dissatisfied): Estima el porcentaje de insatisfechos.\n\n\nFanger, P.O. (1970). Thermal Comfort: Analysis and Applications in Environmental Engineering. Copenhagen: Danish Technical Press."
-  },
-  {
-    "objectID": "index.html#limitaciones-del-pmv",
-    "href": "index.html#limitaciones-del-pmv",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Limitaciones del PMV",
-    "text": "Limitaciones del PMV\n \n\nCondiciones ambientales constantes\nMetabolismo entre 1 y 2 met\nVestimenta entre 0.5 y 2.0\nEspacios climatizados (10 y 30 °C y 30 y 70% HR)\nVelocidades de viento bajas (&lt; 0.2 m/s)"
-  },
-  {
-    "objectID": "index.html#pmv-extendido",
-    "href": "index.html#pmv-extendido",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "PMV extendido",
-    "text": "PMV extendido\n\n\nVálido en un rango extendido de temperatura y humedad\nVálido en condiciones cambiantes\nConsidera el NO uso de aire acondicionado\nConsidera la exposición de la persona evaluada al aire acondicionado\nVálido en exteriores e interiores\nDesarrollo de modelos para cada población"
-  },
-  {
-    "objectID": "index.html#cuál-es-el-interés-en-los-modelos-de-confort",
-    "href": "index.html#cuál-es-el-interés-en-los-modelos-de-confort",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "¿Cuál es el interés en los modelos de confort?",
-    "text": "¿Cuál es el interés en los modelos de confort?\n \n\nDeterminar un setpoint adecuado para EE\nDiseño y simulación de vivienda que alcance el confort térmico con diseño bioclimático"
+    "section": "¿Por qué nos interesa el diseño bioclimático y el confort térmico?",
+    "text": "¿Por qué nos interesa el diseño bioclimático y el confort térmico?\n\n \n\nEficiencia energética al usar a/a\nVivienda adecuada cuando no se usa a/a"
   },
   {
     "objectID": "index.html#diseño-bioclimático-para-ee-y-confort-térmico",
@@ -98,18 +35,88 @@
     "text": "Diseño bioclimático para EE y confort térmico\n\n\n\nOrientación de fachadas\nColores adecuados\nUbicación de ventanas\nUso de protecciones solares\n\n\n\nSistemas constructivos muros y techos\nVentilación natural\nIluminación natural\nSistemas bajo consumo energético"
   },
   {
-    "objectID": "index.html#simulaciones-energéticas-para-ee",
-    "href": "index.html#simulaciones-energéticas-para-ee",
+    "objectID": "index.html#guadalupe-huelsz",
+    "href": "index.html#guadalupe-huelsz",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Simulaciones energéticas para EE",
-    "text": "Simulaciones energéticas para EE\n\n\nEnergyPlus"
+    "section": "Guadalupe Huelsz",
+    "text": "Guadalupe Huelsz\n\n\n\nghl@ier.unam.mx\n\n\n\n\nVentilación natural en edificaciones\nConfort térmico\nDiseño bioclimático\nEvaluación de normativas (NOM-020, NOM-008)"
   },
   {
-    "objectID": "index.html#simulaciones-energéticas-para-ee-1",
-    "href": "index.html#simulaciones-energéticas-para-ee-1",
+    "objectID": "index.html#jorge-rojas",
+    "href": "index.html#jorge-rojas",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Simulaciones energéticas para EE",
-    "text": "Simulaciones energéticas para EE\n\n\nOpenStudio"
+    "section": "Jorge Rojas",
+    "text": "Jorge Rojas\n\n\n\njrm@ier.unam.mx\n\n\n\n\nEnfriamiento radiativo\nEnfriamiento evaporativo\nEvaluación experimental de sistemas constructivos\nEvaluación de normativas (NOM-020, NOM-008)"
+  },
+  {
+    "objectID": "index.html#guillermo-barrios",
+    "href": "index.html#guillermo-barrios",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Guillermo Barrios",
+    "text": "Guillermo Barrios\n\n\n\ngbv@ier.unam.mx\n\n\n\nSimulación energética de edificaciones\nEvaluación de la iluminación natural\nMonitoreo de edificaciones IoT\nEdificaciones Energía Cero NZEB\nEvaluación de normativas (NOM-020, NOM-008)\n\n\n\nPágina personal"
+  },
+  {
+    "objectID": "index.html#reloj-inteligente-con-iot",
+    "href": "index.html#reloj-inteligente-con-iot",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Reloj inteligente con IoT",
+    "text": "Reloj inteligente con IoT\n\nVer artículo completo"
+  },
+  {
+    "objectID": "index.html#vivienda-con-ventilación-natural",
+    "href": "index.html#vivienda-con-ventilación-natural",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Vivienda con ventilación natural",
+    "text": "Vivienda con ventilación natural\nTransferencia de calor en muros de block hueco en una vivienda con ventilación natural\n\nVer artículo completo"
+  },
+  {
+    "objectID": "index.html#modelos-para-bloque-de-concreto-hueco",
+    "href": "index.html#modelos-para-bloque-de-concreto-hueco",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Modelos para bloque de concreto hueco",
+    "text": "Modelos para bloque de concreto hueco\nEvaluation of heat transfer models for hollow blocks in whole-building energy simulations\n\n\n\n\n\nVer artículo completo"
+  },
+  {
+    "objectID": "index.html#modelos-de-transferencia-de-calor",
+    "href": "index.html#modelos-de-transferencia-de-calor",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Modelos de transferencia de calor",
+    "text": "Modelos de transferencia de calor\nDifferences on Results from Steady-state and Time-dependent Wall/roof Heat Transfer Models in Mexican Climates\n\nVer artículo completo"
+  },
+  {
+    "objectID": "index.html#nom-008-ener-y-nom-020-ener",
+    "href": "index.html#nom-008-ener-y-nom-020-ener",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "NOM-008-ENER y NOM-020-ENER",
+    "text": "NOM-008-ENER y NOM-020-ENER\n \nEstas normas limitan la ganancia de calor de las edificaciones no residenciales y residenciales a través de su envolvente, con objeto de racionalizar el uso de la energía en los sistemas de enfriamiento."
+  },
+  {
+    "objectID": "index.html#nom-008-ener-y-nom-020-ener-1",
+    "href": "index.html#nom-008-ener-y-nom-020-ener-1",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "NOM-008-ENER y NOM-020-ENER",
+    "text": "NOM-008-ENER y NOM-020-ENER\n\nModelo incorrecto\nNo considera radiación de onda larga\nNo considera el color\nNo usa un modelo de confort adaptativo\nNo estima el consumo de energía\nNo considera infiltración, ni cargas térmicas\nOrientaciones limitadas"
+  },
+  {
+    "objectID": "index.html#ener-habitat",
+    "href": "index.html#ener-habitat",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Ener-Habitat",
+    "text": "Ener-Habitat"
+  },
+  {
+    "objectID": "index.html#simulaciones-energéticas-para-ee-y-confort",
+    "href": "index.html#simulaciones-energéticas-para-ee-y-confort",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Simulaciones energéticas para EE y confort",
+    "text": "Simulaciones energéticas para EE y confort\n\n\nEnergyPlus"
+  },
+  {
+    "objectID": "index.html#simulaciones-energéticas-para-ee-y-confort-1",
+    "href": "index.html#simulaciones-energéticas-para-ee-y-confort-1",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Simulaciones energéticas para EE y confort",
+    "text": "Simulaciones energéticas para EE y confort\n\n\nOpenStudio"
   },
   {
     "objectID": "index.html#energyplus-y-openstudio",
@@ -119,29 +126,50 @@
     "text": "EnergyPlus y OpenStudio\n\nSimulación de vivienda/edificaciones para consumo energético por aa\nComportamiento térmico de los espacios sin aire acondicionado\nEvaluación de propuestas arquitectónicas\nEvaluación y selección de estrategias bioclimáticas\nEvaluación de la iluminación natural"
   },
   {
-    "objectID": "index.html#mundo-ideal",
-    "href": "index.html#mundo-ideal",
+    "objectID": "index.html#mundo-feliz",
+    "href": "index.html#mundo-feliz",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Mundo ideal",
-    "text": "Mundo ideal\n \n\nGrupo de simulación por estado\nEvalúa la propuesta de acuerdo al clima-uso\nAutoriza y emite recomendaciones"
+    "section": "Mundo feliz",
+    "text": "Mundo feliz\n\nLaboratorio de eficiencia energética y confort en vivienda\n\nBrinda servicios al infonavit-conavi\nEvalúa la propuesta de acuerdo al clima-uso\nAutoriza y emite recomendaciones"
   },
   {
-    "objectID": "index.html#grupo-de-simulación",
-    "href": "index.html#grupo-de-simulación",
+    "objectID": "index.html#laboratorio",
+    "href": "index.html#laboratorio",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Grupo de simulación",
-    "text": "Grupo de simulación\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
-  },
-  {
-    "objectID": "index.html#vista-de-google-street-view",
-    "href": "index.html#vista-de-google-street-view",
-    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
-    "section": "Vista de Google Street View",
-    "text": "Vista de Google Street View"
+    "section": "Laboratorio",
+    "text": "Laboratorio\n\n\nExpert@s en bioclimática y EE\nExpert@s en simulaciones\nExpert@s en análisis de datos\nExpert@s en comunicación de resultados\nExpert@s en construcción de la zona"
   },
   {
     "objectID": "index.html#section",
     "href": "index.html#section",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "",
+    "text": "¿Cómo resolvemos esto?"
+  },
+  {
+    "objectID": "index.html#alta-densidad-por-jorge-taboada",
+    "href": "index.html#alta-densidad-por-jorge-taboada",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Alta Densidad por Jorge Taboada",
+    "text": "Alta Densidad por Jorge Taboada\n\n\n\n\n\nAlta densidad por Jorge Taboada\n\n\n\n\nOrientación uniforme\nSin protección solar\nVentanas pequeñas y mal ubicadas\nAusencia de patios o espacios intermedios.\nNo vegetación"
+  },
+  {
+    "objectID": "index.html#alta-densidad-por-jorge-taboada-1",
+    "href": "index.html#alta-densidad-por-jorge-taboada-1",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Alta Densidad por Jorge Taboada",
+    "text": "Alta Densidad por Jorge Taboada\n\n\n\nAlta Densidad por Jorge Taboada en Instagram"
+  },
+  {
+    "objectID": "index.html#programa-de-vivienda-y-regularización",
+    "href": "index.html#programa-de-vivienda-y-regularización",
+    "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
+    "section": "Programa de vivienda y regularización",
+    "text": "Programa de vivienda y regularización"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
     "title": "Análisis Térmico y Eficiencia Energética en Edificaciones",
     "section": "",
     "text": "Escucho sus preguntas."
